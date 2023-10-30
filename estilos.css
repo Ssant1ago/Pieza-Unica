@@ -135,3 +135,18 @@ body{
     margin-top: 85px;
 }
 
+.Lista{
+    display: flex;
+    justify-content: center;
+}
+
+.Listas{
+    width: 300px;
+    height: 300px;
+    list-style: none;
+}
+
+.Listas img{
+    width: 100%;
+    height: 100%;
+}
